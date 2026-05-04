@@ -7,6 +7,7 @@ Ci joint les videos de la dynamique de chaque modèle.
 Bibliographie:
 https://www.scientificamerican.com/article/mathematical-games-1970-10/
 https://conwaylife.com/wiki/Main_Page
+
 https://www.wolframscience.com/nks/
 
 
