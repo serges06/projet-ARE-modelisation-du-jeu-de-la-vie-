@@ -4,6 +4,11 @@ Dans la 1 ere variante la mort et la survie ne dependra plus du nombre de voisin
 Dans la seconde variante on implementera le cas d'une tumeur initialement localisée au centre des cellules et de son evolution par rapport à celle des autres cellules .
 Ci joint les videos de la dynamique de chaque modèle. 
 
+Bibliographie:
+https://www.scientificamerican.com/article/mathematical-games-1970-10/
+https://conwaylife.com/wiki/Main_Page
+https://www.wolframscience.com/nks/
+
 
 
 FOKOU Serges, OUFELLA Aksel
